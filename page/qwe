@@ -1,0 +1,446 @@
+<!doctype html>
+<html>
+ <head> 
+  <title>发展历程_山推工程机械股份有限公司</title> 
+  <meta charset="utf-8" /> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=no" /> 
+  <meta name="renderer" content="webkit" /> 
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge" /> 
+  <!-- <meta name="apple-mobile-web-app-title" content="design by www.jerei.com">
+<link rel="apple-touch-icon" href="/resources/web/img/apple-touch-icon.png">
+<link rel="apple-touch-startup-image" href="/resources/web/img/screen.png"> -->  
+  <meta name="format-detection" content="telephone=no" /> 
+  <meta name="author" content="design by www.jerei.com" />
+  <link rel="stylesheet" href="/resources/favicon.ico" />
+  <link rel="stylesheet" href="/resources/ui/ui.css" />
+  <link rel="stylesheet" href="/resources/ui/grid12.css" />
+  <link rel="stylesheet" href="/resources/web/css/style.css" />
+  <link rel="stylesheet" href="/resources/web/css/animate.css" />
+  <link rel="stylesheet" href="/resources/web/css/responsive.css" />      
+  <!--[if lt IE 9]><script src="/resources/web/lib/H5shiv.js"></script><![endif]--> 
+  <script src="/resources/modules/seajs/sea.js" id="seajsnode"></script> 
+  <script src="/resources/web/seajs.config.js" id="seajsConfig" domain="http://www.shantui.com/"></script> 
+  <!-- <script src="/resources/??modules/seajs/sea.js,modules/seajs/seajs-combo.js,web/seajs.config.js"></script> --> 
+ </head>
+ <body>
+  <header class="head"> 
+   <div class="head_top"> 
+    <div class="wrap fix"> 
+     <ul class="head_r r"> 
+      <li class="li01"> 
+       <form id="topSearchForm" name="topSearchForm" action="/site/zhan-nei-sou-suo.htm" method="get"> 
+        <a href="javascript:document.topSearchForm.submit();" class="btn-search"><i class="ico2"></i></a> 
+        <div class="search item"> 
+         <input type="text" id="keywords" name="keywords" class="inp" placeholder="请输入关键词" value="" /> 
+        </div> 
+       </form> </li> 
+      <li class="li02"><span><i class="ico"></i>Language<i class="ico2"></i></span> 
+       <div class="language"> 
+        <a href="http://www.shantui.com" target="_blank">中文</a> 
+        <a href="http://en.shantui.com" target="_blank">English</a> 
+        <a href="http://fr.shantui.com" target="_blank">Fran&ccedil;ais</a> 
+        <a href="http://ru.shantui.com" target="_blank">Pусский</a> 
+        <a href="http://es.shantui.com" target="_blank">Espa&ntilde;ol</a> 
+        <a href="http://br.shantui.com" target="_blank">Portugu&ecirc;s</a> 
+       </div> </li> 
+      <li class="li03"><a href="http://mail.shantui.com/" target="_blank"><i class="ico ico1_2"></i>企业邮箱</a></li> 
+      <li class="li04"><a href="#">我要询价<i class="ico2"></i></a></li> 
+     </ul> 
+     <a href="#menu" class="mobile_key MobilePush"><i class="ion"></i></a> 
+     <!--导航控制按钮--> 
+     <h4 class="logo l"><a href="/" class="hidetext" title="山推工程机械股份有限公司">山推工程机械股份有限公司</a></h4> 
+    </div> 
+   </div> 
+   <nav class="nav" id="menu"> 
+    <ul class="wrap fix"> 
+     <li class="nav_li "><a href="/index.htm" class="nav_a">首页</a> </li> 
+     <li class="nav_li cur"><a href="/about/index.htm" class="nav_a">走进山推</a> 
+      <div class="_lev2 _layer"> 
+       <ul class="_nav2"> 
+        <li><a href="/about/le-jie-shan-tui.htm" target="">了解山推</a></li> 
+        <li><a href="/about/ke-ji-chuang-xin.htm" target="">科技创新</a></li> 
+        <li><a href="/about/fa-zhan-li-cheng.htm" target="">发展历程</a></li> 
+        <li><a href="/about/qi-ye-wen-hua.htm" target="">品牌文化</a></li> 
+        <li><a href="/about/she-hui-ze-ren.htm" target="">社会责任</a></li> 
+        <li><a href="/about/honor-quan-bu.htm" target="">山推荣誉</a></li> 
+        <li><a href="/about/lian-xi-wo-men.htm" target="">联系我们</a></li> 
+       </ul> 
+       <div class="_c"> 
+        <div class="ul fix"> 
+         <div class="li">
+          <a href="/about/fen-zhi-ji-gou.htm"> <img src="/upload/images/2016/03/16/af1372bea4f2422a902b109fba228179.jpg" alt="分支机构" class="_img" /> 
+           <div class="_t">
+            分支机构
+           </div> 
+           <div class="p">
+            山推股份现有5家控股子公司、6家全资子公司和5个事业部
+           </div> </a> 
+         </div> 
+         <div class="li">
+          <a href="/about/quan-bu.htm"> <img src="/upload/images/2016/03/31/9fd7a5addd434f228baaa5255b40ad31.jpg" alt="山推印象" class="_img" /> 
+           <div class="_t">
+            山推印象
+           </div> 
+           <div class="p">
+            拥有核心技术，具有国际竞争力，可持续发展的工程机械制造商。
+           </div> </a> 
+         </div> 
+        </div> 
+       </div> 
+      </div> </li> 
+     <li class="nav_li "><a href="/news/index.htm" class="nav_a">新闻中心</a> 
+      <div class="_lev2 _layer"> 
+       <ul class="_nav2"> 
+        <li><a href="/news/shan-tui-xin-wen-list-0.htm" target="">山推新闻</a></li> 
+        <li><a href="/news/zhuan-ti-bao-dao.htm" target="">专题报道</a></li> 
+        <li><a href="/news/mei-ti-shi-jiao-list-0.htm" target="">媒体视角</a></li> 
+        <li><a href="/news/hang-ye-dong-tai-list-0.htm" target="">行业动态</a></li> 
+        <li><a href="/news/video-quan-bu.htm" target="">视频中心</a></li> 
+        <li><a href="/news/gong-gao-xin-xi-list-0.htm" target="">公告信息</a></li> 
+       </ul> 
+       <div class="_c"> 
+        <div class="ul fix"> 
+         <div class="li">
+          <a href="/news/video-quan-bu.htm"> <img src="/upload/images/2016/03/16/91e0327a3f2c4ecc9ac29b78804ab2a5.jpg" alt="视频中心" class="_img" /> 
+           <div class="_t">
+            视频中心
+           </div> 
+           <div class="p">
+            拥有核心技术，具有国际竞争力，可持续发展的工程机械制造商。
+           </div> </a> 
+         </div> 
+         <div class="li">
+          <a href="/news/zhuantilist.jsp?tid=143"> <img src="/upload/images/2016/03/16/3a5ea9f3087e4e808fb0cd9c5965fbe1.jpg" alt="国之重器－山推行" class="_img" /> 
+           <div class="_t">
+            国之重器－山推行
+           </div> 
+           <div class="p">
+            讲述充满中国智慧的机器制造故事，展现了中国装备制造业30年来的成就。
+           </div> </a> 
+         </div> 
+        </div> 
+       </div> 
+      </div> </li> 
+     <li class="nav_li "><a href="/product/index.htm" class="nav_a">产品中心</a> 
+      <div class="_lev2 _layer"> 
+       <ul class="_nav2"> 
+        <li><a href="/product/tui-tu-ji.htm" target="">推土机</a></li> 
+        <li><a href="/product/dao-lu-ji-xie.htm" target="">道路机械</a></li> 
+        <li><a href="/product/zhuan-zai-ji.htm" target="">装载机</a></li> 
+        <li><a href="/product/hun-ning-tu-ji-xie.htm" target="">混凝土机械</a></li> 
+        <li><a href="/product/xiao-fang-/gao-kong-zuo-ye-che.htm" target="">消防/高空作业车</a></li> 
+        <li><a href="/product/pei-tao-jian.htm" target="">配套件</a></li> 
+        <li><a href="http://old.shantui.com/showroom/" target="_blank">产品3D展厅</a></li> 
+       </ul> 
+       <div class="_c"> 
+        <div class="ul fix"> 
+         <div class="li">
+          <a href="http://mall.shantui.com/" target="_blank"> <img src="/upload/images/2016/03/31/6fb4292eb4514e97b18da151524be44d.jpg" alt="山推E家" class="_img" /> 
+           <div class="_t">
+            山推E家
+           </div> 
+           <div class="p">
+            国之重器，品质之选。山推纯正部件让您的设备拥有更持久的生命力。
+           </div> </a> 
+         </div> 
+         <div class="li">
+          <a href="http://esj.shantui.com/index.php" target="_blank"> <img src="/upload/images/2016/03/24/b469107076c44f06a1e402bb2583de19.jpg" alt="二手机械" class="_img" /> 
+           <div class="_t">
+            二手机械
+           </div> 
+           <div class="p">
+            以性能优良而价格适中的再制造产品，满足您对产品性能的需求
+           </div> </a> 
+         </div> 
+        </div> 
+       </div> 
+      </div> </li> 
+     <li class="nav_li "><a href="/service/index.htm" class="nav_a">客户服务</a> 
+      <div class="_lev2 _layer"> 
+       <ul class="_nav2"> 
+        <li><a href="/service/ji-shu-fu-wu.htm" target="">技术服务</a></li> 
+        <li><a href="/service/guo-nei-ying-xiao-wang-luo-list-0.htm" target="">营销网络</a></li> 
+        <li><a href="/service/pei-jian-zhi-chi.htm" target="">配件支持</a></li> 
+        <li><a href="/service/ji-shu-fu-wu-pei-xun.htm" target="">客户培训</a></li> 
+        <li><a href="/about/shan-tui-ren.htm" target="">服务故事</a></li> 
+        <li><a href="/service/fang-wei-cha-xun.jsp" target="">防伪查询</a></li> 
+        <li><a href="/service/zai-xian-liu-yan.htm" target="">在线留言</a></li> 
+       </ul> 
+       <div class="_c"> 
+        <div class="ul fix"> 
+         <div class="li">
+          <a href="/service/guo-nei-ying-xiao-wang-luo-list-0.htm"> <img src="/upload/images/2016/03/18/6d050a00bce143d8ab33292b71a81a51.jpg" alt="营销网络" class="_img" /> 
+           <div class="_t">
+            营销网络
+           </div> 
+           <div class="p">
+             山推在全国设立28家代理公司，建立了完善、系统的服务网络。
+           </div> </a> 
+         </div> 
+         <div class="li">
+          <a href="/service/pei-jian-zhi-chi.htm"> <img src="/upload/images/2016/03/16/2c41702e2ab340a2b160fc4bac06a6b4.jpg" alt="配件支持" class="_img" /> 
+           <div class="_t">
+            配件支持
+           </div> 
+           <div class="p">
+            为延长机器的使用寿命，最大化的为客户创造更高的收益，请选择使用山推纯正零部件！
+           </div> </a> 
+         </div> 
+        </div> 
+       </div> 
+      </div> </li> 
+     <li class="nav_li "><a href="/invest/index.htm" class="nav_a">投资者关系</a> 
+      <div class="_lev2 _layer"> 
+       <ul class="_nav2"> 
+        <li><a href="/invest/gu-piao-xin-xi.htm" target="">股票信息</a></li> 
+        <li><a href="/invest/gong-si-zhi-li-list-0.htm" target="">公司治理</a></li> 
+        <li><a href="/invest/gu-li-fen-pei-list-0.htm" target="">股利分配</a></li> 
+        <li><a href="/invest/ding-qi-bao-gao-list-0.htm" target="">定期报告</a></li> 
+        <li><a href="/invest/zui-xin-gong-gao-list-0.htm" target="">最新公告</a></li> 
+        <li><a href="/invest/tou-zi-zhe-zai-xian.htm" target="">投资者在线</a></li> 
+        <li><a href="/invest/feng-xian-jiao-yu-list-0.htm" target="">风险教育课堂</a></li> 
+       </ul> 
+       <div class="_c"> 
+        <div class="ul fix"> 
+         <div class="li">
+          <a href="/invest/gu-piao-xin-xi.htm"> <img src="/upload/images/2016/03/16/710d470d4b2a4fe0b7b9671ba3a339b8.jpg" alt="股票信息" class="_img" /> 
+           <div class="_t">
+            股票信息
+           </div> 
+           <div class="p">
+            1997年1月“山推股份”在深交所挂牌上市，股票代码： 000680
+           </div> </a> 
+         </div> 
+         <div class="li">
+          <a href="/invest/shi-pin-ke-tang.htm"> <img src="/upload/images/2016/03/16/9e2e057534cf4758ad315494865b316f.jpg" alt="风险教育课堂" class="_img" /> 
+           <div class="_t">
+            风险教育课堂
+           </div> 
+           <div class="p">
+            融资融券投资者怎样进行上市公司网络投票？
+           </div> </a> 
+         </div> 
+        </div> 
+       </div> 
+      </div> </li> 
+     <li class="nav_li "><a href="/job/index.htm" class="nav_a">人力资源</a> 
+      <div class="_lev2 _layer"> 
+       <ul class="_nav2"> 
+        <li><a href="/job/ren-cai-zhan-l&uuml;e.htm" target="">人才战略</a></li> 
+        <li><a href="/job/zhao-pin-zhi-wei-list-0.htm" target="">招聘职位</a></li> 
+        <li><a href="/job/zai-xian-ying-pin.htm" target="">在线应聘</a></li> 
+        <li><a href="/job/ying-pin-xu-zhi-list-0.htm" target="">应聘须知</a></li> 
+        <li><a href="/job/bao-dao-xu-zhi-list-0.htm" target="">报到须知</a></li> 
+        <li><a href="/job/wo-zai-shan-tui-list-0.htm" target="">我在山推</a></li> 
+       </ul> 
+       <div class="_c"> 
+        <div class="ul fix"> 
+         <div class="li">
+          <a href="/job/ren-cai-zhan-l&uuml;e.htm"> <img src="/upload/images/2016/03/16/3a5084b0e33b482b8e4d3eb4c2bce2bf.jpg" alt="人才战略" class="_img" /> 
+           <div class="_t">
+            人才战略
+           </div> 
+           <div class="p">
+            “以人为本”是山推企业文化的重要理念
+           </div> </a> 
+         </div> 
+         <div class="li">
+          <a href="/job/wo-zai-shan-tui-list-0.htm"> <img src="/upload/images/2016/03/16/5c4baec4e3db4594b07c5ea669c7d623.jpg" alt="我在山推" class="_img" /> 
+           <div class="_t">
+            我在山推
+           </div> 
+           <div class="p">
+            使得每一位有理想、有能力的人都能在各自的岗位上尽情发挥，实现自我抱负！
+           </div> </a> 
+         </div> 
+        </div> 
+       </div> 
+      </div> </li> 
+    </ul> 
+   </nav> 
+  </header> 
+  <div class="top-form"> 
+   <div class="wrap fix"> 
+    <div class="top-form-ewm PcPush"> 
+     <div class="top-ewmnr fix"> 
+      <div class="top-ewm-left"> 
+       <div class="_ewmimg"> 
+        <img src="/upload/images/2016/03/30/1a9056db32844b338c1e8c4fe779b1d6.jpg" width="100%" alt="" class="" /> 
+       </div> 
+      </div> 
+      <div class="top-ewm-right"> 
+       <div class="_tel">
+        400-666-3666
+       </div> 
+       <div class="p1">
+        山推全国统一服务热线
+       </div> 
+       <div class="p2">
+         地址：山东省济宁市327国道58号山推国际事业园
+        <br /> 总机：0537-2909999
+        <br /> 邮编：272073
+        <br /> 网址：
+        <a href="http://www.shantui.com">www.shantui.com</a> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="top-form-message"> 
+     <div class="top-mess-lant">
+       填写您的疑问和需求 
+     </div> 
+     <div class="top-mess-form"> 
+      <form name="topMessageForm" id="topMessageForm" action="/core/control/wcm_common_leave_message/control.jsp"> 
+       <label for="name"><input id="name" name="obj.name" maxlength="20" type="text" datatype="*" class="_tmesinp Validform_error" nullmsg="请输入姓名！" sucmsg="验证通过！" errormsg="请输入姓名！" placeholder="您的姓名" /></label> 
+       <label for="company"><input id="company" name="obj.company" maxlength="20" datatype="*" nullmsg="请输入公司名称！" type="text" sucmsg="验证通过！" class="_tmesinp" errormsg="请填写公司名称！" placeholder="公司名称" /></label> 
+       <label for="telephone"><input id="telephone" name="obj.telephone" maxlength="20" datatype="m" nullmsg="请输入电话！" type="text" sucmsg="验证通过！" class="_tmesinp" errormsg="请填写手机号码！" placeholder="您的电话" /></label> 
+       <label for="top_content"><textarea id="top_content" name="obj.content" placeholder="告诉我们您的需求和疑问" class="_tmsarea"></textarea></label> 
+       <button type="submit" value="" class="_tmesbtn">在线询价<i class="ico2"></i></button> 
+       <input type="hidden" name="method" value="leaveMessage" /> 
+      </form> 
+     </div> 
+    </div> 
+    <div class="top-form-close"> 
+     <i class="ion"></i> 
+    </div> 
+   </div> 
+  </div> 
+  <section class="n_bann2 n_bann3 UnmobilePush"> 
+   <textarea class="hide">		&lt;img src=&quot;/upload/images/2016/03/04/53fd2e215a7c444c943474b373a75e54.jpg&quot; width=&quot;100%&quot; alt=&quot;&quot; class=&quot;&quot; /&gt;
+
+</textarea> 
+  </section> 
+  <section class="c_pd"> 
+   <section class="main_bar"> 
+    <div class="wrap"> 
+     <div class="dev_top"> 
+      <p class="big_t wow fadeInDown">36年回顾 </p> 
+      <div class="big_sum wow fadeInUp">
+       山推工程机械股份有限公司创建于1980年，是集研发、生产、销售铲土运输机械、路面及压实机械、建筑机械、工程起重机械等工程机械系列主机产品及关键零部件于一体的国家大型一类骨干企业 
+      </div> 
+     </div> 
+     <div class="widget-history-3"> 
+      <a href="###" class="widget-history-3_arrs widget-history-3_prev"></a> 
+      <a href="###" class="widget-history-3_arrs widget-history-3_next"></a> 
+      <div class="widget-history-3-tab"> 
+       <div class="widget-history-3-T wow fadeInUp"> 
+        <ul> 
+         <li class="tab_t" countid="2011年~2015年"><b></b><span>2011年~2015年</span></li> 
+         <li class="tab_t" countid="2006年~2010年"><b></b><span>2006年~2010年</span></li> 
+         <li class="tab_t" countid="2001年~2005年"><b></b><span>2001年~2005年</span></li> 
+         <li class="tab_t" countid="1996年~2000年"><b></b><span>1996年~2000年</span></li> 
+         <li class="tab_t" countid="1991年~1995年"><b></b><span>1991年~1995年</span></li> 
+         <li class="tab_t" countid="1986年~1990年"><b></b><span>1986年~1990年</span></li> 
+         <li class="tab_t" countid="1980年~1985年"><b></b><span>1980年~1985年</span></li> 
+        </ul> 
+       </div> 
+       <h3 class="posi"><a href="/"><i class="ico ico1_4"></i></a><em><i class="ico ico1_5"></i></em> <a href="/about/index.htm">走进山推</a><span>&nbsp;&gt;&nbsp;</span> 发展历程 </h3> 
+       <div class="resource-box wow fadeInUp"> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </section> 
+   <section class="foot_top"> 
+    <div class="wrap pr"> 
+     <ul class="f_fast fix"> 
+      <li><a href="http://mail.shantui.com/" target="_blank"><i class="ico ico3_1"></i>企业邮箱</a></li> 
+      <li><a href="http://weibo.com/shantui" target="_blank"><i class="ico ico3_2"></i>官方微博</a></li> 
+      <li><a href="http://mall.shantui.com/" target="_blank"><i class="ico ico3_3"></i>山推E家</a></li> 
+      <li><a href="http://old.shantui.com/showroom/" target="_blank"><i class="ico ico3_4"></i>产品3D展厅</a></li> 
+     </ul> 
+     <div class="f_fenzhi">
+      <span class="f_fz_t">分支机构<i class="ico2"></i></span> 
+      <div class="_option"> 
+       <a href="/about/fenzhilist.jsp?tid=146">事业部</a> 
+       <a href="/about/fenzhilist.jsp?tid=149">全资子公司</a> 
+       <a href="/about/fenzhilist.jsp?tid=150">控股子公司</a> 
+      </div> 
+     </div> 
+    </div>
+   </section> 
+   <div class="rightFloat"> 
+    <a href="#" class="gotop"></a> 
+   </div> 
+  </section> 
+  <footer class="foot shown"> 
+   <section class="foot_center"> 
+    <div class="wrap fix"> 
+     <dl class="dl01 l"> 
+      <dt>
+       <a href="/product/index.htm">山推产品</a>
+      </dt> 
+      <dd> 
+       <a href="/product/tui-tu-ji.htm" target="">推土机</a> 
+       <a href="/product/dao-lu-ji-xie.htm" target="">道路机械</a> 
+       <a href="/product/zhuan-zai-ji.htm" target="">装载机</a> 
+       <a href="/product/hun-ning-tu-ji-xie.htm" target="">混凝土机械</a> 
+       <a href="/product/xiao-fang-/gao-kong-zuo-ye-che.htm" target="">消防/高空作业车</a> 
+       <a href="/product/pei-tao-jian.htm" target="">配套件</a> 
+      </dd> 
+     </dl> 
+     <dl class="dl02 l"> 
+      <dt>
+       山推总部
+      </dt> 
+      <dd> 
+       <table width="100%"> 
+        <tbody>
+         <tr> 
+          <th>地址：</th> 
+          <td>山东省济宁市327国道58号山推国际事业园</td> 
+         </tr> 
+         <tr> 
+          <th>总机：</th> 
+          <td><a href="/about/lian-xi-wo-men.htm">0537-2909999</a></td> 
+         </tr> 
+         <tr> 
+          <th>邮编：</th> 
+          <td>272073</td> 
+         </tr> 
+         <tr> 
+          <th>邮箱：</th> 
+          <td><a href="mailto:service@shantui.com">service@shantui.com</a></td> 
+         </tr> 
+        </tbody>
+       </table> 
+      </dd> 
+     </dl> 
+     <dl class="dl03 l"> 
+      <dt>
+       山推营销
+      </dt> 
+      <dd class="fix"> 
+       <address> <strong>营销</strong><br /> 电话：<a href="/about/lian-xi-wo-men.htm">0537-2909188</a><br /> 传真：0537-2364216 </address> 
+       <address> <strong>国际营销</strong><br /> 电话：<a href="/about/lian-xi-wo-men.htm">+86-537-2909367</a><br /> 传真：+86-537-2311219 </address> 
+       <address> <strong>产品支持</strong><br /> 电话：<a href="/about/lian-xi-wo-men.htm">400 6663 666</a><br /> 传真：0537-2344610 </address> 
+      </dd> 
+     </dl> 
+     <div class="f-share r"> 
+      <img src="/upload/images/2016/05/09/e55d77e03e4243999badfb7636ec2ebb.jpg" width="100%" alt="" class="" /> 
+      <div class="bdsharebuttonbox" data-tag="share_1">
+       <span class="l">分享至</span>
+       <a href="#" class="bds_tsina" data-cmd="tsina" title="分享到新浪微博"></a>
+       <a href="#" class="bds_tqq" data-cmd="tqq" title="分享到腾讯微博"></a>
+       <a href="#" class="bds_sqq" data-cmd="sqq" title="分享到QQ好友"></a>
+       <a href="#" class="bds_weixin" data-cmd="weixin" title="分享到微信"></a>
+      </div> 
+     </div> 
+    </div> 
+   </section> 
+   <section class="foot_bottom"> 
+    <div class="wrap fix"> 
+     <p class="l"><a href="/">山推工程机械股份有限公司</a> 版权所有 <a href="http://www.miitbeian.gov.cn/" target="_blank">鲁ICP备05036442号-1</a> 2016 <a href="/">Shantui Construction Machinery co.,Ltd</a> </p> 
+     <p class="r"><a href="http://www.jerei.com" target="_blank">捷瑞数字</a> 制作维护</p> 
+    </div> 
+   </section> 
+  </footer>  
+  <div style="display:none;" id="jr_analysis">
+   <script src="http://s4.cnzz.com/z_stat.php?id=1258348899&web_id=1258348899" type="text/javascript"></script>
+  </div>
+ </body>
+</html>
+<script type="text/javascript">
+
+seajs.use('js/develop')
+</script>

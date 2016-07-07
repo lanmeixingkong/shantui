@@ -1,0 +1,141 @@
+@charset 'utf-8';
+
+
+body{
+	font-size: 16px;
+	width: 100%;
+	min-width: none;
+}
+.wrap{
+	width: 92%;
+	/*max-width: none;*/
+	padding-left: 4%;
+	padding-right: 4%;
+}
+
+/*头部区域*/
+.logo{
+	clear: both;
+}
+/*手机版导航*/
+.mobilemenu{
+	display: block;
+	float: left;
+	margin-top: 16px;
+}
+.mobilemenu i{
+	display: block;
+	width: 30px;
+	height: 25px;
+	background-image: url(../images/ico2.png);
+	background-position: -70px 0;
+}
+
+.mobilenav{
+	display:block;
+	width: 100%;
+	height: 100%;
+/*	position: relative;*/
+	z-index: 20;
+}
+.mobilenav ul{
+	width: 50%;
+	height: 100%;
+	padding-top:5%;
+	background-color: #333;
+	position: absolute;
+	left: -60%;
+	top: 0%;
+	z-index: 20;
+}
+
+.mobilenav>div{
+	position: absolute;
+	left: 50%;
+	top: 0;
+	width: 50%;
+	height: 100%;
+	display: none;
+	z-index: 20;
+}
+
+.mobilenav ul li a{
+	display: block;
+	overflow: hidden;
+	margin: 0;
+	padding: 10px 10px 10px 20px;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+	color: rgba(255,255,255,.6);
+	position: relative;
+}
+.mobilenav ul li{
+    border-bottom:1px solid rgba(0,0,0,.2);
+}
+.mobilenav a .i1{
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+	background-image: url(../images/ico.png);
+	background-position: -2px -20px;
+	position: absolute;
+	right: 0;
+	top: 30%;
+}
+
+.header_r li{
+	line-height: 22px;
+	margin-top: 11px;
+	padding:0;
+	margin-right: 12px; 
+}
+.header_r .li02{
+	display: none;
+}
+.header_r .li04 input{
+	display: none;
+}
+
+
+/*询价--点击*/
+.top_form_xx{
+	display:none;
+}
+
+.top_form_msg{
+	width:100%;
+	float: none;
+}
+.top_form_close{
+	position: absolute;
+	top: -70px;
+	right: 0px;
+}
+/*隐藏电脑版导航条*/
+nav{
+	bottom: 0;
+	display: none;
+}
+.main_title{
+	width: 100%;
+}
+
+.main5{
+	display:none;
+}
+
+
+/*底部*/
+footer{
+	position: relative;
+}
+footer .foot_top{
+	display: none;
+	z-index: 5;
+}
+footer .foot_bottom .copy{
+	float: none;
+}
+footer .foot_bottom .jer{
+	float: none;
+}

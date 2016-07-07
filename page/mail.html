@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+	<meta charset="UTF-8">
+	<title>邮箱登录</title>
+	<script type="text/javascript" src="../public/yinyong/js/jquery-1.10.2.min.js"></script>
+	<link rel="stylesheet" type="text/css" href="../public/css/mail.css">
+	<style type="text/css">
+		@media screen and (max-width: 640px){
+			.header,.cont{
+				min-width: 800px;
+			}
+		}
+	</style>
+</head>
+<body>
+	<div class="header">
+		<div class="wrap">
+			<span>
+				<img src="../public/images/loginlogo.png">
+			</span>
+		</div>
+
+	</div>
+	<div class="cont">
+		<div class="wrap clearfix">
+			<img src="../public/images/illu.png">
+			<div class="dl">
+				<ul class="clearfix">
+					<li class="active">用户登录</li>
+					<li>管理员登录</li>
+				</ul>
+				<div class="msg clearfix">
+					<form>
+						<input type="text" placeholder="邮箱账号">
+						<span class="span1">@shantui.com</span>
+						<input type="password" placeholder="密码">
+						<input type="checkbox">
+						<span class="span2">SSL 安全登录</span>
+						<input type="button" value="登录">
+					</form>
+					<a href="" class="a1">忘记用户密码</a>
+					<a href="" class="a2">Language</a>
+				</div>
+				<div class="glmsg clearfix">
+					<form>
+						<input type="radio" name="gly"><span class="span2">超级域管理员</span>
+						<input type="radio" name="gly"><span class="span2">域管理员</span>
+
+						<input type="text" placeholder="管理员账号">
+						<span class="span1">@shantui.com</span>
+						<input type="password" placeholder="密码">
+
+						<input type="checkbox" class="check2">
+						<span class="span3">使用密保登录</span>
+
+						<input type="checkbox"  class="check1">
+						<span class="span2">SSL 安全登录</span>
+						
+						<input type="button" value="登录">
+					</form>
+					<a href="" class="a1">忘记管理员密码</a>
+					<a href="" class="a2">Language</a>
+				</div>	
+			</div>
+		</div>
+	</div>
+	<div class="foot wrap">
+		<a href="/">公司官网</a>
+		<p>Copyright© 2011-2016 山推工程机械股份有限公司</p>
+	</div>
+</body>
+</html>
+<script type="text/javascript">
+	$(function(){
+		$('li').each(function(i){
+			$(this).click(function(){
+				$('li').removeClass('active');
+				$(this).addClass('active');
+				if (i==0) {
+					$('.msg').show();
+					$('.glmsg').hide();
+				}else{
+					$('.msg').hide();
+					$('.glmsg').show();
+				}
+				console.log(i);
+			})
+			
+		})
+	});
+</script>

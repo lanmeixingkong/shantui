@@ -1,0 +1,366 @@
+@import url(walktost-pc.css) screen and (max-width: 1500px);
+@import url(walktost-mobile.css) screen and (max-width: 640px);
+@charset 'utf-8';
+.section2 {
+  padding: 50px 0;
+}
+.section2 li {
+  position: relative;
+}
+.section2 li a {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+.section2 li .img {
+  width: 100%;
+}
+.section2 li .img img {
+  max-width: 100%;
+}
+.section2 li .txt {
+  z-index: 5;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 52.5%;
+  padding: 32% 13% 16%;
+  width: 74%;
+}
+.section2 li .txt h3 {
+  position: absolute;
+  left: 12%;
+  top: 8%;
+  padding-bottom: 20px;
+  font-size: 24px;
+  color: #fff;
+  font-weight: bold;
+}
+.section2 li .txt h3:after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 50%;
+  height: 1px;
+  background-color: #ff9900;
+}
+.section2 li .txt p {
+  // opacity: 0;
+  color: #fff;
+}
+.section3 {
+  width: 100%;
+  height: auto;
+  background-image: url(../images/kzbg.jpg);
+  background-repeat: no-repeat;
+  background-position: center top;
+}
+.section3 a {
+  width: 100%;
+  height: 100%;
+}
+.section3 a img {
+  max-width: 100%;
+}
+.section4 {
+  padding-bottom: 50px;
+}
+.section4 .history {
+  padding-top: 175px;
+}
+.section4 .history .his_mian {
+  position: relative;
+}
+.section4 .history .his_mian .tabs {
+  display: none;
+  padding-top: 25px;
+  margin-bottom: 60px;
+}
+.section4 .history .his_mian .tabs .himg {
+  position: relative;
+}
+.section4 .history .his_mian .tabs .himg .imgbox img {
+  width: 100%;
+}
+.section4 .history .his_mian .tabs .himg span {
+  display: block;
+  position: absolute;
+  top: -144px;
+  left: 50px;
+}
+.section4 .history .his_mian .tabs .hmsg .year {
+  padding-left: 25px;
+  font-size: 94px;
+  color: #e6e6e6;
+  font-weight: bold;
+}
+.section4 .history .his_mian .tabs .hmsg .hinfo {
+  padding-left: 25px;
+  transition: all 0.3s ease;
+}
+.section4 .history .his_mian .tabs .hmsg .hinfo:hover {
+  color: #ff9900;
+}
+.section4 .history .his_mian .tabs_on {
+  display: block;
+}
+.section4 .history .his_mian .tab_chose {
+  position: relative;
+}
+.section4 .history .his_mian .tab_chose a {
+  display: inline-block;
+  width: 28px;
+  height: 55px;
+  background-image: url(../images/about_his_btn.png);
+  position: absolute;
+  top: auto;
+  bottom: 23px;
+  transition: all 0s ease;
+}
+.section4 .history .his_mian .tab_chose .z {
+  left: 0;
+}
+.section4 .history .his_mian .tab_chose .z:hover {
+  background-position: 0 bottom;
+}
+.section4 .history .his_mian .tab_chose .y {
+  background-position: right 0;
+  right: 0;
+}
+.section4 .history .his_mian .tab_chose .y:hover {
+  background-position: right bottom;
+}
+.section4 .history .his_mian .tab_chose .uldiv {
+  margin: 0 auto;
+  margin-bottom: 50px;
+  width: 85%;
+  height: 81px;
+  background-image: url(../images/about_his_line.png);
+  background-repeat: no-repeat;
+  overflow: hidden;
+  position: relative;
+}
+.section4 .history .his_mian .tab_chose .uldiv ul {
+  height: 100%;
+  position: absolute;
+  left: 0;
+  right: 0;
+}
+.section4 .history .his_mian .tab_chose .uldiv ul li {
+  overflow: hidden;
+  float: left;
+  text-align: center;
+  height: 100%;
+  position: relative;
+  cursor: pointer;
+}
+.section4 .history .his_mian .tab_chose .uldiv ul li b {
+  display: block;
+  width: 17px;
+  height: 17px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 22px;
+  background-image: url(../images/ab_his_dian.png);
+  background-color: #fff;
+  background-repeat: no-repeat;
+  z-index: 10;
+}
+.section4 .history .his_mian .tab_chose .uldiv ul li div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 30px;
+  line-height: 30px;
+  font-size: 16px;
+  color: #5a5a5a;
+  font-weight: bold;
+}
+.section4 .history .his_mian .tab_chose .uldiv ul li hr {
+  width: 100%;
+  position: absolute;
+  left: 0;
+  top: 30px;
+  border-bottom: transparent;
+  border-top-color: #fefefe;
+}
+.section4 .history .his_mian .tab_chose .uldiv ul li.now b {
+  background-image: url(../images/ab_his_dian_on.png);
+}
+.section5 {
+  width: 100%;
+  height: 458px;
+  margin-bottom: 40px;
+  background: url(../images/about_box4_bg.jpg) center top no-repeat;
+}
+.section5 .s5_title {
+  margin: 0 auto;
+  margin-bottom: 50px;
+  text-align: center;
+}
+.section5 .s5_title h2 {
+  position: relative;
+  padding-bottom: 20px;
+  margin-bottom: 15px;
+  color: #fff;
+}
+.section5 .s5_title .s5_p {
+  color: #fff;
+}
+.section5 .s5_title button {
+  margin-top: 40px;
+  background-color: transparent;
+  font-size: 16px;
+  color: #f67702;
+  border: 2px #f67702 solid;
+  width: 160px;
+  height: 38px;
+  line-height: 38px;
+  cursor: pointer;
+  position: relative;
+  transition: all 0.5s ease;
+}
+.section5 .s5_title button i {
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  background-image: url(../images/ico.png);
+  background-position: -60px -80px;
+  margin-left: 10px;
+  position: absolute;
+  top: 9px;
+}
+.section5 .s5_title button:hover {
+  color: #fff;
+  background-color: #f67702;
+}
+.section5 .s5_title button:hover i {
+  background-image: url(../images/ico.png);
+  background-position: -80px -20px;
+}
+.section6 {
+  padding-bottom: 60px;
+}
+.section6 .streport li {
+  border: 1px solid transparent;
+  border-bottom-color: #f1f1f1;
+}
+.section6 .streport li a {
+  display: block;
+  padding: 2%;
+}
+.section6 .streport li a i {
+  display: inline-block;
+  width: 38px;
+  height: 55px;
+  background-image: url(../images/ico2.png);
+  background-position: -100px 0;
+  vertical-align: middle;
+}
+.section6 .streport li a span {
+  display: inline-block;
+  font-size: 16px;
+  color: #4e4e4e;
+  width: 80%;
+  padding-left: 4%;
+  margin-top: 20px;
+}
+.section6 .streport li:hover {
+  border-color: #FA8D0F;
+}
+.section6 .streport li:hover i {
+  background-position: -138px 0;
+}
+.section6 .playbox {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+}
+.section6 .playbox ul {
+  width: 200%;
+  position: relative;
+  top: 0;
+  left: 0;
+}
+.section6 .playbox ul li {
+  width: 50%;
+  float: left;
+  overflow: hidden;
+}
+.section6 .playbox ul li a {
+  position: relative;
+  display: block;
+  width: 100%;
+  padding-bottom: 60%;
+}
+.section6 .playbox ul li a div {
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.section6 .playbox ul li a img {
+  width: 100%;
+  height: 100%;
+}
+.section6 .playbox ul li a h3 {
+  width: 92%;
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0px;
+  padding: 0 4%;
+  height: 70px;
+  line-height: 70px;
+  background: rgba(0, 0, 0, 0.5);
+  color: #fff;
+  font-size: 24px;
+  font-weight: bold;
+}
+.section6 .playbox .btns {
+  position: absolute;
+  right: 20px;
+  bottom: 20px;
+}
+.section6 .playbox .btns a {
+  display: inline-block;
+  margin-left: 10px;
+  width: 16px;
+  height: 16px;
+  border-radius: 16px;
+  background-color: #51545F;
+}
+.section6 .playbox .btns .on {
+  background-color: #fff;
+}
+.section6 .playbox .pre {
+  width: 47px;
+  height: 47px;
+  position: absolute;
+  top: 50%;
+  left: 10px;
+  margin-top: -25px;
+  z-index: 10;
+  background-image: url(../images/nzt_btn.png);
+  transition: all 0.3s ease;
+}
+.section6 .playbox .next {
+  width: 47px;
+  height: 47px;
+  position: absolute;
+  top: 50%;
+  right: 10px;
+  margin-top: -25px;
+  z-index: 10;
+  background-image: url(../images/nzt_btn.png);
+  background-position: -47px 0;
+  transition: all 0.3s ease;
+}
+.section6 .playbox .pre:hover {
+  background-position: 0 -47px;
+}
+.section6 .playbox .next:hover {
+  background-position: -47px -47px;
+}

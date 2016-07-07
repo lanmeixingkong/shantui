@@ -1,0 +1,89 @@
+@charset 'utf-8';
+
+
+
+/*轮转区域*/
+#playbox{
+	height: 558px;
+	width: 100%;
+}
+#playbox .oUlplay li img{
+ 	/*max-width: 100%;*/
+ 	/*width: 80%;*/
+ 	height: 100%;
+	/*margin-left:0;*/
+	margin-left: -20%;
+ }
+#playbox .imgcover{
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	height: 31px;
+	z-index: 2;
+    background: url(../images/mask.png) center 0 no-repeat;
+}
+#playbox .smalltitle{
+	position: absolute;
+	bottom: 50px;
+}
+.smalltitle ul{
+	width: 260px;
+	margin: 0 auto;
+}
+#playbox .smalltitle ul li{
+	width: 12px;
+	height: 12px;
+	border: 2px solid transparent;
+	border-radius: 12px;
+}
+
+/*主体部分*/
+
+.container{
+	margin-bottom: 380px;
+}
+
+
+.main1 .main1_ul li{
+	/*width: 25%;*/
+	height: 300px;
+}
+.main1_ul .info1{
+	padding: 31% 10%;
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+.main1 .main1_ul li a{
+	display: block;
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+.main1_ul .li2 .info1{
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+.main1_ul .li4 .info1{
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+.prolist li{
+	float: left;
+	width: 180px;
+}
+.prolist .active{
+	width: 300px;
+}
+.prolist li{
+	background-position :right top;
+}
+
+.main3{
+	height: 555px;
+}
+
